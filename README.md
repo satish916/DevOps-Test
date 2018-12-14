@@ -1,5 +1,9 @@
 Follow information.
 
+
+
+
+
 1.	Question
 Ans; 
 To configure the PPA on your machine and install ansible run these commands:
@@ -82,6 +86,7 @@ ansible localhost -m apt -a "name=git state=latest update_cache=yes" -b
 3. question 
 Ans:
 
+
 Treee
 .
 ├── dockercompose
@@ -158,7 +163,9 @@ save&quit
 
 
 
+To access by using this Ip: http://18.234.158.55:8080/ 
 
+http://18.234.158.55:8080/sample.html
 
 
 
